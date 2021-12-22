@@ -13,6 +13,10 @@ describe("isDate()", () => {
     const testDate = new Weekday("December 35, 2021"); 
     expect(testDate.isDate()).toEqual("is not a Date")
   });
+  test("should return the day of week as a string", () => {
+    const testDate = new Weekday("December 25, 2021"); 
+    expect(testDate.DOW()).toEqual("Saturday")
+  })
 });
 
 // expect(findate(getDate)).toEqual("Saturday");
@@ -28,4 +32,4 @@ describe("isDate()", () => {
 
 
 
-// const dayArray  [ "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
