@@ -17,6 +17,5 @@ Weekday.prototype.isDate = function() {
 Weekday.prototype.DOW = function() {
   const dayArray = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
   const date = new Date(this.inputtedDate);
-  console.log(date.getDay());
   return dayArray[date.getDay()];
 }

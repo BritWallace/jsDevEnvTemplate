@@ -1,12 +1,13 @@
-# _{Application name here}_
+# Project name 
 
-#### By _**{List of contributors}**_
+#### By _**Brit Wallace**_
 
-#### _{Brief description of application}_
+#### _An Epicodus student project. 
+
 
 ## Github Pages Link
 
-[TITLE HERE Github Pages](https://patrick-dolan.github.io/APPLICATIONNAMEHERE/)
+[TITLE HERE Github Pages](https://BritWallace.github.io/APPLICATIONNAMEHERE/)
 
 ## Technologies Used
 
@@ -20,11 +21,8 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _* Clone the repository, then go ahead and open the index.html in your browser.
+
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 

@@ -6,7 +6,7 @@ describe("isDate()", () => {
     expect(testDate.inputtedDate).toEqual("December 25, 2021");
   })
   test("should determine if inputted data is a date", () => {
-    const testDate = new Weekday("December 25, 2021"); 
+    const testDate = new Weekday("December 25, 2021"); git 
     expect(testDate.isDate()).toEqual("is a Date")
   });
   test("should determine if inputted data is a date", () => {
